@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/www/(.*)",
-      "dest": "/index.html"
+      "src": "www/(.*)",
+      "dest": "www/index.html"
     }
   ]
 }
